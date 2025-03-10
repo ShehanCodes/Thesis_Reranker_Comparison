@@ -3,7 +3,7 @@
 This repository contains the implementation code for my thesis titled:  
 **"Enhancing Retrieval-Augmented Generation Pipelines for Improved Performance: A Comparative Analysis of Reranking Models."**  
 
-The project focuses on evaluating the impact of different reranking models in Retrieval-Augmented Generation (RAG) pipelines, using varying configurations for initial retrieval (\k\).  
+The project focuses on evaluating the impact of different reranking models in Retrieval-Augmented Generation (RAG) pipelines, using varying configurations for initial retrieval (k).  
 
 ---
 
